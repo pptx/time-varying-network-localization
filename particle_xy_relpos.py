@@ -1,7 +1,6 @@
 import numpy as np
 import os
 from pyDOE import lhs
-from math import atan2
 from scipy.stats import norm, multivariate_normal
 import matplotlib.pyplot as plt
 import sys
